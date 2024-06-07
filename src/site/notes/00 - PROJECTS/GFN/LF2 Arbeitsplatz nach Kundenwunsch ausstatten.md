@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-2-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["gfn","LF2","inProgress","publish"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-2-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["gfn","LF2","inProgress","publish"],"noteIcon":"","updated":"2024-06-08T00:00:10.350+02:00"}
 ---
 
 # Arbeitsplatz nach Kundenwunsch ausstatten
