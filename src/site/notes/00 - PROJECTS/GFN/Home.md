@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["publish","gardenEntry"],"noteIcon":""}
 ---
 
-# Hallo zusammen `far:Smile`
+# Hallo zusammen 😄 
 
 Das ist meine Zusammenfassung für die IHK-Prüfung als Fachinformatik für Anwendungsentwickler.
 
