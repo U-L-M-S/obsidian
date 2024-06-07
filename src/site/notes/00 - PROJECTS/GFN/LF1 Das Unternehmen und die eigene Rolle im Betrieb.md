@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-1-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["gfn","inProgress","LF01","publish"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-1-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["gfn","inProgress","LF01","publish"],"noteIcon":"","updated":"2024-06-08T00:00:08.207+02:00"}
 ---
 
 # Das Unternehme und die eigene Rolle im Betrieb 
