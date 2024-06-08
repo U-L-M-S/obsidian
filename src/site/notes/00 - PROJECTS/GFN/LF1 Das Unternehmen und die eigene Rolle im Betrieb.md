@@ -35,4 +35,4 @@ Du muss in der Lager sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]
 [[02 - RESOURCES/Notes/OHG\|OHG]]
 ## [[02 - RESOURCES/Notes/Wirtschaftliche Verflechtung\|Wirtschaftliche Verflechtung]]
 
-![LF1 Das Unternehmen und die eigene Rolle im Betrieb-20240608155839201.png](/img/user/02%20-%20RESOURCES/Files/LF1%20Das%20Unternehmen%20und%20die%20eigene%20Rolle%20im%20Betrieb-20240608155839201.png)
+![LF1 Das Unternehmen und die eigene Rolle im Betrieb-20240608155839201.png](/img/user/02%20-%20RESOURCES/Files/IMGs/LF1%20Das%20Unternehmen%20und%20die%20eigene%20Rolle%20im%20Betrieb-20240608155839201.png)
