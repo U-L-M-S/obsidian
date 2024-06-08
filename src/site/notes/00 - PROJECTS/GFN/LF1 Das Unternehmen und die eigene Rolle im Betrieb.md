@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-1-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["gfn","inProgress","LF01","publish"],"noteIcon":"","updated":"2024-06-08T15:58:41.103+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-1-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["gfn","inProgress","LF01","publish"],"noteIcon":"","updated":"2024-06-08T16:02:08.313+02:00"}
 ---
 
 # Das Unternehme und die eigene Rolle im Betrieb 
@@ -34,5 +34,3 @@ Du muss in der Lager sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]
 [[02 - RESOURCES/Notes/UG\|UG]]  
 [[02 - RESOURCES/Notes/OHG\|OHG]]
 ## [[02 - RESOURCES/Notes/Wirtschaftliche Verflechtung\|Wirtschaftliche Verflechtung]]
-
-![LF1 Das Unternehmen und die eigene Rolle im Betrieb-20240608155839201.png](/img/user/02%20-%20RESOURCES/Files/IMGs/LF1%20Das%20Unternehmen%20und%20die%20eigene%20Rolle%20im%20Betrieb-20240608155839201.png)
