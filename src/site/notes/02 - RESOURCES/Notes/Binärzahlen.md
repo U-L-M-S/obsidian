@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahlen/","tags":["mathe/binaerzahlen"],"noteIcon":"","updated":"2024-06-09T20:50:52.725+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahlen/","tags":["mathe/binaerzahlen"],"noteIcon":"","updated":"2024-06-09T21:00:58.842+02:00"}
 ---
 
 ## Binärzahlen 
@@ -17,7 +17,7 @@ ___
 | 1024 | 512 | 256 | 128 |  64  |  32  |  16  |   8  |  4   |   2  | 1   |
 
 
-## Dezimal <-> Binär 
+## Dezimal ↔ Binär 
 
 ### Dezimal -> Binär
 
