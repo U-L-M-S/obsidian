@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip-address/","tags":["netzwerk/ip"],"noteIcon":"","updated":"2024-06-09T20:20:34.408+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ip-address/","tags":["netzwerk/ip"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 ## IP Address
