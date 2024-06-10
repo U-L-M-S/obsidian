@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/netzwerk/","tags":["netzwerk/subnetting","inProgress"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/netzwerk/","tags":["netzwerk/subnetting","inProgress"],"noteIcon":"","updated":"2024-06-10T02:02:17.613+02:00"}
 ---
 
 # Netzwerk 
