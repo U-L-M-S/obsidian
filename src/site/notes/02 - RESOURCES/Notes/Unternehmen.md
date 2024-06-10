@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/unternehmen/","tags":["bwl","LF01","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-09T19:16:53.811+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/unternehmen/","tags":["bwl","LF01","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 ## Unternehmen
