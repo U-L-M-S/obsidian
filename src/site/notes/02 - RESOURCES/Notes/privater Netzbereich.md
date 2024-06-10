@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/privater-netzbereich/","tags":["#netzwerk","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-09T20:00:27.683+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/privater-netzbereich/","tags":["#netzwerk","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 > Unternehmensweites [[00 - PROJECTS/Netzwerk\|Netzwerk]] (Privat). Wird verwendet um Daten in eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] zu verwalten/bearbeiten/teilen.
