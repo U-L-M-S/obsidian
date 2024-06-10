@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/eva-prinzip/","tags":["begriff","LF2","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-09T19:55:38.717+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/eva-prinzip/","tags":["begriff","LF2","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 > **E**ingabe **V**erarbeitung **A**usgabe.
