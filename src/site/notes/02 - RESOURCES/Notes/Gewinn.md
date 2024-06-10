@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gewinn/","tags":["bwl"],"noteIcon":"","updated":"2024-06-09T19:55:59.657+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gewinn/","tags":["bwl"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 ## Gewinn 
