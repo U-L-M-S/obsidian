@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vpn/","tags":["netzwerk"],"noteIcon":"","updated":"2024-06-09T20:03:02.244+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vpn/","tags":["netzwerk"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 > Virtual Private Network 
