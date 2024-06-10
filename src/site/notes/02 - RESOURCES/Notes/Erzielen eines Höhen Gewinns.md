@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erzielen-eines-hoehen-gewinns/","tags":["bwl"],"noteIcon":"","updated":"2024-06-09T19:23:21.415+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/erzielen-eines-hoehen-gewinns/","tags":["bwl"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 ### Erzielen eines Höhen Gewinns 
