@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ipv6/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-06-09T19:59:58.259+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ipv6/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 ## ipv6 
