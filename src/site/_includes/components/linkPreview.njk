@@ -72,7 +72,18 @@
         iframe.onload = function () {
           tooltipContentHtml = ''
           tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
-          tooltipContentHtml += iframe.contentWindow.document.querySelector('.content').innerHTML
+
+          // Edit Felix.Fromm
+          // tooltipContentHtml += iframe.contentWindow.document.querySelector('.content').innerHTML
+          let contentClone = iframe.contentWindow.document.querySelector('.content').cloneNode(true);
+          let firstH1 = contentClone.querySelector('h1');
+          if (firstH1) {
+              firstH1.parentNode.removeChild(firstH1);
+          }
+          tooltipContentHtml += contentClone.innerHTML;
+
+          // Edit End
+
           tooltipContent.innerHTML = tooltipContentHtml
           linkHistories[contentURL] = tooltipContentHtml
           tooltipWrapper.style.display = 'block';
