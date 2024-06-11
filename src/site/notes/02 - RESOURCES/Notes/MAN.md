@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/man/","tags":["netzwerk"],"noteIcon":"","updated":"2024-06-10T02:02:17.757+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/man/","tags":["netzwerk"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 > Metropolitan Area Network
