@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datenverarbeitung/","tags":[null],"noteIcon":"","updated":"2024-06-10T02:02:17.743+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datenverarbeitung/","tags":[null],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 > Es bezeichnet den organisierten Umgang mit Datenmengen mit dem Ziel. Informationen zu gewinnen oder die Datenmenge zu verändern.
