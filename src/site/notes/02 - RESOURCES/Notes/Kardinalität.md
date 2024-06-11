@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["datenbank","begriff","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-10T02:02:17.753+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["datenbank","begriff","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 > Es ist die Beziehung zwischen zwei Tabellen, oder genauer gesagt: wie viel Datensätze mit einer anderen Tabellen verknüpfen sein können.
