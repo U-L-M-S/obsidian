@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kuendigung/","tags":["LF01","prüfungsrelevant","publish"],"noteIcon":"","updated":"2024-06-10T02:02:17.753+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kuendigung/","tags":["LF01","prüfungsrelevant","publish"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
 ---
 
 ## Kündigung 
