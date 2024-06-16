@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["publish","gardenEntry"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["publish","gardenEntry"],"noteIcon":"","updated":"2024-06-16T20:09:54.814+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -15,11 +15,11 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 
 ---
 ## Links:
-[[00 - PROJECTS/GFN/LF1 Das Unternehmen und die eigene Rolle im Betrieb\|LF1 Das Unternehmen und die eigene Rolle im Betrieb]]
-[[00 - PROJECTS/GFN/LF2 Arbeitsplatz nach Kundenwunsch ausstatten\|LF2 Arbeitsplatz nach Kundenwunsch ausstatten]] 
-[[00 - PROJECTS/GFN/LF3 Clients in Netzwerk einbinden\|LF3 Clients in Netzwerk einbinden]] 
-[[00 - PROJECTS/GFN/LF4 Grundlagen Projektmanagement\|LF4 Grundlagen Projektmanagement]] 
-[[00 - PROJECTS/GFN/LF4 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF4 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] 
-[[00 - PROJECTS/GFN/LF5 Software zur Verwaltung von Daten anpassen\|LF5 Software zur Verwaltung von Daten anpassen]] 
-[[00 - PROJECTS/GFN/LF7 Cyber-physische Systeme ergänzen\|LF7 Cyber-physische Systeme ergänzen]]
-[[00 - PROJECTS/GFN/LF8 Daten systemübergreifend bereitstellen\|LF8 Daten systemübergreifend bereitstellen]]
+[[00 - PROJECTS/GFN/LF01 Das Unternehmen und die eigene Rolle im Betrieb\|LF01 Das Unternehmen und die eigene Rolle im Betrieb]]
+[[00 - PROJECTS/GFN/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]] 
+[[00 - PROJECTS/GFN/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]] 
+[[00 - PROJECTS/GFN/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]] 
+[[00 - PROJECTS/GFN/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] 
+[[00 - PROJECTS/GFN/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] 
+[[00 - PROJECTS/GFN/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]]
+[[00 - PROJECTS/GFN/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
