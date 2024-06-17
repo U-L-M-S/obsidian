@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betrieb/","tags":["bwl","#LF01","publish"],"noteIcon":"","updated":"2024-06-11T08:39:44.645+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/betrieb/","tags":["bwl","#LF01"],"noteIcon":"","updated":"2024-06-17T09:14:54.087+02:00"}
 ---
 
 ## Betrieb 
