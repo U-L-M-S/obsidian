@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["inProgress","datenbank","sql","python","LF05","GFN"],"noteIcon":"","updated":"2024-06-17T09:10:38.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["inProgress","datenbank","sql","python","LF05","GFN"],"noteIcon":"","updated":"2024-06-17T09:10:38.595+02:00"}
 ---
 
 > In diese Zusammenfassung wirst du lernen die Grundlage der Datenbank (Theorie und Praktisch), soeben wie Grundlage der Programmierung (Python and Diagrammen) und die .
