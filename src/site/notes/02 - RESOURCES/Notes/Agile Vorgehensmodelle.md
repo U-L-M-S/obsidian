@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agile-vorgehensmodelle/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-06-16T00:17:33.480+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/agile-vorgehensmodelle/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-06-16T00:17:33.000+02:00"}
 ---
 
 > Wie der Name schon sagt, es ist eine Vorgehensweise  wie man ein [[02 - RESOURCES/Notes/Projekt\|Projekt]] besser strukturiert.
