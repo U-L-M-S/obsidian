@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN"],"noteIcon":"","updated":"2024-06-17T11:07:51.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-06-21T14:32:42.899+02:00"}
 ---
 
-## IV. Softwareergonomie von Benutzerschnittstellen
+## IV. Benutzerschnittstellen unter Softwareergonomischen Gesichtspunkten planen
 
 In diese Kapitel lernen wir den Begriff [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]]. Wie der Name schon sagt, es ist nicht anders als ein Software so einfach stellen, dass der Nutzer sofort verstehen kann was er tun kann und was zutun ist.
 
+# V. Anwendungen in Java implementieren
