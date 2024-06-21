@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/delimiter/","tags":[null],"noteIcon":"","updated":"2024-06-11T09:40:31.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/delimiter/","tags":[null],"noteIcon":"","updated":"2024-06-21T09:01:29.435+02:00"}
 ---
 
-> Englischer Begriff für "**Abgrenzer**".
+> Englischer Begriff für "**Trenner**".
 > Es wird oft in die Excel Wert benutzt.
 > ${,}$ oder ${;}$
