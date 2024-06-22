@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["java/klassen"],"noteIcon":"","updated":"2024-06-21T16:38:51.337+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["java/klassen"],"noteIcon":"","updated":"2024-06-21T16:38:51.000+02:00"}
 ---
 
 

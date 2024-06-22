@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-bsp/","tags":["java","algorithmus"],"noteIcon":"","updated":"2024-06-21T16:26:46.860+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-bsp/","tags":["java","algorithmus"],"noteIcon":"","updated":"2024-06-21T16:26:46.000+02:00"}
 ---
 
 

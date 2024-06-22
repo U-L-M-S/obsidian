@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-06-21T14:32:42.899+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-06-21T14:32:42.000+02:00"}
 ---
 
 ## IV. Benutzerschnittstellen unter Softwareergonomischen Gesichtspunkten planen

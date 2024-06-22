@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-while-loop/","tags":["java/loop"],"noteIcon":"","updated":"2024-06-21T16:36:02.144+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-while-loop/","tags":["java/loop"],"noteIcon":"","updated":"2024-06-21T16:36:02.000+02:00"}
 ---
 
 
