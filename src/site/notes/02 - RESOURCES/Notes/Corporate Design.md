@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/corporate-design/","tags":["LF08"],"noteIcon":"","updated":"2024-06-22T23:28:23.186+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/corporate-design/","tags":["LF08"],"noteIcon":"","updated":"2024-06-23T16:18:57.037+02:00"}
 ---
 
 > Teilbereich der [[02 - RESOURCES/Notes/Corporate Identity\|Corporate Identity]].

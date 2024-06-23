@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/corporate-communication/","tags":["LF08"],"noteIcon":"","updated":"2024-06-22T23:31:09.835+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/corporate-communication/","tags":["LF08"],"noteIcon":"","updated":"2024-06-23T16:12:24.808+02:00"}
 ---
 
 > Wie das [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] sich bewirbt.
