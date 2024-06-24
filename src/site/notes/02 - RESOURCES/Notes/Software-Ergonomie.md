@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/software-ergonomie/","tags":["LF08"],"noteIcon":"","updated":"2024-06-22T21:15:20.588+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/software-ergonomie/","tags":["LF08"],"noteIcon":"","updated":"2024-06-22T21:15:20.000+02:00"}
 ---
 
 > Benutzerfreundliche Ausrichtung von Datenverarbeitungsprogrammen.
