@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-gui/","tags":["java/tools"],"noteIcon":"","updated":"2024-06-21T16:04:02.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-gui/","tags":["java/tools"],"noteIcon":"","updated":"2024-06-21T16:04:02.521+02:00"}
 ---
 
 
