@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ux/","tags":["bedeutung","GUI"],"noteIcon":"","updated":"2024-06-22T20:26:47.688+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ux/","tags":["bedeutung","GUI"],"noteIcon":"","updated":"2024-06-24T08:55:44.378+02:00"}
 ---
 
 > **U**ser **E**xperience.
