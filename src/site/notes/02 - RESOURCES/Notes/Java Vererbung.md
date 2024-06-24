@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["java/klassen/vererbung"],"noteIcon":"","updated":"2024-06-21T16:25:43.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["java/klassen/vererbung"],"noteIcon":"","updated":"2024-06-21T16:25:43.942+02:00"}
 ---
 
 
