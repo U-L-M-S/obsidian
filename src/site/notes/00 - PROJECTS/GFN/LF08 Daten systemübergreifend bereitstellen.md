@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-06-23T11:29:57.287+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-06-24T10:47:28.650+02:00"}
 ---
 
 # IV. Benutzerschnittstellen unter Softwareergonomischen Gesichtspunkten planen
@@ -23,7 +23,11 @@ Als nächste soll man verstehen was den Begriff [[02 - RESOURCES/Notes/GUI\|GUI]
 	Wireframe kann [[02 - RESOURCES/Notes/statisch\|statisch]]e (Darstellung von nur einer einzelnen Oberfläche.) **oder** [[02 - RESOURCES/Notes/dynamisch\|dynamisch]] (Mehrere Oberfläche werden miteinander verknüpft) sein- 
 - Mockup: Eine Wireframe wird erstellt und wird als bsp, mit den Kundenorientierung, erstellt (GUI wird erstellt).
 - Prototyp: 
-	-  Funktionen und verlinkungen werden eingesetzt.
+	-  Funktionen und Verlinkung werden eingesetzt.
 
 # V. Anwendungen in Java implementieren
 In diesem Kapitel geht es nur um [[00 - PROJECTS/Java\|Java]].
+
+
+# VI. Anwendungen in Python implementieren
+In diesem Kapitel geht es nur um [[00 - PROJECTS/Python\|Python]].
