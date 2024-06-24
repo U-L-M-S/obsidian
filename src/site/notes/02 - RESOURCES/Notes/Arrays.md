@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arrays/","tags":["java/array"],"noteIcon":"","updated":"2024-06-21T16:28:48.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/arrays/","tags":["java/array"],"noteIcon":"","updated":"2024-06-21T16:28:48.630+02:00"}
 ---
 
 > So wie die meisten Programmiersprachen fängt Java-Array bei 0 an.
