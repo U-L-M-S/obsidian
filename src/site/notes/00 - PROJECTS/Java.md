@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/java/","tags":["java","inProgress"],"noteIcon":"","updated":"2024-06-24T12:45:27.208+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/java/","tags":["java","inProgress"],"noteIcon":"","updated":"2024-06-24T13:06:57.483+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -19,7 +19,7 @@ Wie du schon in der classic Code "Hello World" sehen kannst. Ist dass alles in e
 
 Die Funktion main() ist der **Starter** der Programm.
 Nun hat die Funktion drei Begriffen bei sich:
-- public: [[02 - RESOURCES/Notes/Zugriffmodifikatoren\|Zugriffmodifikatoren]]
+- public: [[02 - RESOURCES/Notes/Zugriffsmodifikatoren\|Zugriffsmodifikatoren]]
 - static:
 - void:
 
