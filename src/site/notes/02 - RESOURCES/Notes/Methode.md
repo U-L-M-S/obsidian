@@ -13,15 +13,11 @@
 ## Java Methoden 
 
 >Syntax
->accessModifier returnDateType methodName (parameters) throws exceptionList
+>[[02 - RESOURCES/Notes/Zugriffsmodifikator\|access modifer]] returnDateType methodName (parameters) 
 
 ```java
 public class AwesomeJavaProgram{
-// A method that throws a `NullPointerException` if the object is null
-	public void printName(String name) throws NullPointerException {
-		if (name == null) {
-		    throw new NullPointerException("The name cannot be empty");
-		}
+	public void printName(String name) {
 		System.out.println(name);
 	}
 }
