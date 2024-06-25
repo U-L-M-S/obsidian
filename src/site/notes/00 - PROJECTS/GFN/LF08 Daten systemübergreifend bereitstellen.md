@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-06-24T16:32:23.967+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-06-25T20:31:49.112+02:00"}
 ---
 
-### IV. Benutzerschnittstellen unter Softwareergonomischen Gesichtspunkten planen
+## IV. [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] von Benutzerschnittstellen
 
 In diesem Kapitel lernen wir den Begriff [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] kennen. Wie der Name schon sagt, es ist nicht anders als ein Software so einfach stellen, dass der Nutzer sofort verstehen kann was er tun kann und was zutun ist.
 
@@ -25,9 +25,15 @@ Als nächste soll man verstehen was den Begriff [[02 - RESOURCES/Notes/GUI\|GUI]
 - Prototyp: 
 	-  Funktionen und Verlinkung werden eingesetzt.
 
-### V. Anwendungen in Java implementieren
+## V. Anwendungen in Java implementieren
 In diesem Kapitel geht es nur um [[00 - PROJECTS/Java\|Java]].
 
 
-### VI. Anwendungen in Python implementieren
+## VI. Anwendungen in Python implementieren
 In diesem Kapitel geht es nur um [[00 - PROJECTS/Python\|Python]].
+
+## VII. Datenbanklösungen bedarfsgerecht entwickeln
+In diesem Kapitel geht es nur um [[02 - RESOURCES/Notes/SQL\|SQL]].
+
+Es ist eigentlich nur eine Wiederholung aber etwas intensiver und mit mehr Theorie.
+[[02 - RESOURCES/Tägliche Notizen/2024-06-25#Aufgabe\|2024-06-25#Aufgabe]]
