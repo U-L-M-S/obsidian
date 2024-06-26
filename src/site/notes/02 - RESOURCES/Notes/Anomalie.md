@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anomalie/","tags":["datenbank","informatik"],"noteIcon":"","updated":"2024-06-26T09:15:48.532+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anomalie/","tags":["datenbank","informatik"],"noteIcon":"","updated":"2024-06-26T21:01:25.515+02:00"}
 ---
 
 >In der Informatik/Datenbank bezeichnet man als Anomalie alle Arten von fehlerhaften Daten.
@@ -7,4 +7,4 @@
 
 Es gibt vier Arten von Anomalien:
 
-##[[02 - RESOURCES/Notes/Mutationsanomalie\|Mutationsanomalie]]
+[[02 - RESOURCES/Notes/Mutationsanomalie\|Mutationsanomalie]]
