@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/logo/","tags":["bwl"],"noteIcon":"","updated":"2024-06-24T08:55:44.343+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/logo/","tags":["bwl"],"noteIcon":"","updated":"2024-06-24T08:55:44.000+02:00"}
 ---
 
 > Grafisches Zeichen, der ein bestimmtes Subjekt repräsentiert.

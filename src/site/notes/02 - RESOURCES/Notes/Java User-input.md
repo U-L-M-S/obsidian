@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-user-input/","tags":["java/user-input"],"noteIcon":"","updated":"2024-06-21T16:33:43.644+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-user-input/","tags":["java/user-input"],"noteIcon":"","updated":"2024-06-21T16:33:43.000+02:00"}
 ---
 
 
