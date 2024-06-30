@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-06-28T10:18:52.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-06-30T15:29:16.958+02:00"}
 ---
 
 ## IV. [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] von Benutzerschnittstellen
@@ -41,3 +41,4 @@ Es ist eigentlich nur eine Wiederholung aber etwas intensiver und mit mehr Theor
 
 ___
 [[02 - RESOURCES/Tägliche Notizen/2024-06-27#Python NoSQL\|2024-06-27#Python NoSQL]]
+
