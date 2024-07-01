@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/corporate-design/","tags":["LF08"],"noteIcon":"","updated":"2024-06-24T08:55:44.295+02:00"}
+tags:
+  - LF08
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-22 21:33
+aliases:
+  - corporate design
+  - Unternehmens-Erscheinungsbild
 ---
-
 > Teilbereich der [[02 - RESOURCES/Notes/Corporate Identity\|Corporate Identity]].
 > > Man kann diese auch als "Erscheinungsbild des [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]s" nennen.
 
