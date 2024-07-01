@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ipv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - netzwerk/ip/ipv4
+dg-publish: true
+links: 
+reference: "[[02 - RESOURCES/Notes/IP Address\|IP Address]]"
+path: Notes
+created: 2023-09-13 10:14
 ---
-
 ## IPv4 
 32-bit-Binärzahlen, die in Dezimal dargestellt werden und mit "**.**"  getrennt sind.  
 
@@ -32,7 +37,18 @@ Da 192.168.1.0 reserviert ist, für den Netzwerk Address und soeben 192.168.1.25
 
 
 
-
+---
+tags:
+  - netzwerk/ip
+  - netzwerk/gateway
+  - netzwerk/subnet-mask
+  - command
+  - linux
+links: 
+reference: "[[02 - RESOURCES/Notes/ipv4\|ipv4]]"
+path: Notes
+created: 2023-09-13 13:15
+---
 ## ip 
 I's the command used to get the network card information. Most of the times used to get the [[02 - RESOURCES/Notes/IP Address\|IP Address]]. 
 
@@ -148,8 +164,8 @@ IPv4 wurde in 5 Klassen unterteilt:
 | Klasse C | -   | 192.0.0.0 - 223.255.255.0 | *255.255.255*.0     |
 | Klasse D | -   | 224.0.0.0 - 239.255.255.255 |     |
 | Klasse E | -   | 240.0.0.0 - 255.255.255.255      |     |
-{ #872578}
 
+^872578
 
 >[!important] 
 >
