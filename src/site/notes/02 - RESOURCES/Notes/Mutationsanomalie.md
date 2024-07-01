@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mutationsanomalie/","tags":["datenbank"],"noteIcon":"","updated":"2024-06-26T22:40:46.350+02:00"}
+tags:
+  - datenbank
+dg-publish: true
+links: 
+reference: 
+aliases:
+  - Mutationsanomalie
+  - mutationsanomalie
+path: Notes
+created: 2024-06-26 09:15
 ---
-
 > Diese Art von [[02 - RESOURCES/Notes/Anomalie\|Anomalie]] trifft auf wenn [[02 - RESOURCES/Notes/Redundanz\|Redundanz]]daten erscheinen.
 
 ### Tabelle: Kunden
