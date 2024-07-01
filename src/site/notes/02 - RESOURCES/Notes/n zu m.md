@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/n-zu-m/","tags":["kardinatität"],"noteIcon":"","updated":"2024-06-20T04:23:36.000+02:00"}
+tags:
+  - kardinatität
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-14 11:43
 ---
-
 > n zu m | n:m ODER m zu n | m:n 
 > Beiden Seiten besitzen mehrere Sachen.
 
