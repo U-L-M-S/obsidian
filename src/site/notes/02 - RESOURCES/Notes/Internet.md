@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/internet/","tags":[null],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags: 
+- 
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 15:05
 ---
-
 > **Inter**connected Networks.
 
 Es ist unser bekannte [[02 - RESOURCES/Notes/Internet\|Internet]] (Öffentlich). Es ist nicht anders als vielen miteinander verbundenen [[00 - PROJECTS/Netzwerk\|Netzwerk]]en.
