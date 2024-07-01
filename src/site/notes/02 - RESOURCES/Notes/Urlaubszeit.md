@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/urlaubszeit/","tags":[null],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags: 
+- 
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-02-06 22:35
 ---
-
 # Jugendliche
 >Lautet [[02 - RESOURCES/Notes/jArbSchG\|jArbSchG]]. Jeder der unter 18 ist enthält extra Urlaubszeit.
 >Diese verfolgt lautet die Tabelle:
