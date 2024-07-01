@@ -1,5 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/eclipse-ide/","tags":["tools","LF08"],"noteIcon":"","updated":"2024-06-21T14:01:57.768+02:00"}
+tags:
+  - tools
+  - LF08
+dg-publish: true
+links: https://www.eclipse.org/downloads/
+reference: 
+path: Notes
+created: 2024-06-21 13:45
 ---
-
 > Ein Standard [[02 - RESOURCES/Notes/IDE\|IDE]] der gemacht wurde für [[00 - PROJECTS/Java\|Java]].
