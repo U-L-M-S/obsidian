@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betrieb/","tags":["bwl","#LF01"],"noteIcon":"","updated":"2024-06-17T09:14:54.087+02:00"}
+tags:
+  - bwl
+  - "#LF01"
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-14 12:26
 ---
-
 ## Betrieb 
 > Es bezieht sich meistens auf einen Teil eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]], kann aber eine spezifische Einheit sein.
 
