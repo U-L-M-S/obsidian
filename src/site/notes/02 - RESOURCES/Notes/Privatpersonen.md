@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/privatpersonen/","tags":["bwl"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-14 12:03
 ---
-
 ## Privatpersonen 
 > natürliche Person/menschliche Person im Gegensatz zu einer [[02 - RESOURCES/Notes/juristische Person\|juristische Person]]
 
