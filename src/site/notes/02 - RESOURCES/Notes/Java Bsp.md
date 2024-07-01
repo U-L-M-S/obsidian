@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-bsp/","tags":["java","algorithmus"],"noteIcon":"","updated":"2024-06-21T16:26:46.860+02:00"}
+tags:
+  - java
+  - algorithmus
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-21 16:26
 ---
-
 
 ```Java
 class Collatz {
