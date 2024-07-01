@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-user-input/","tags":["java/user-input"],"noteIcon":"","updated":"2024-06-21T16:33:43.644+02:00"}
+tags:
+  - java/user-input
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-21 16:29
 ---
-
 
 ```java
 import java.util.Scanner;
