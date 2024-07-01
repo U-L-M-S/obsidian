@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/window-builder/","tags":["java/tools"],"noteIcon":"","updated":"2024-06-21T16:04:27.162+02:00"}
+tags:
+  - java/tools
+dg-publish: true
+links: 
+reference: "[[02 - RESOURCES/Notes/Java GUI\|Java GUI]]"
+path: Notes
+created: 2024-06-21 16:03
 ---
-
 Erstens, erstellt eine neues JFrame.
 > [!note] PATH
 > Rechtsklick in der Package -> New -> Other -> JFrame auswählen -> Name eingeben
