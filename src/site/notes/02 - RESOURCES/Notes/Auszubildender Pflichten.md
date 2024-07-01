@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/auszubildender-pflichten/","tags":["prüfungsrelevant","LF01"],"noteIcon":"","updated":"2024-06-17T09:14:47.502+02:00"}
+tags:
+  - prüfungsrelevant
+  - LF01
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-20 17:34
 ---
-
 ## Auszubildender Pflichten 
 > Das sind die Pflichten einer [[02 - RESOURCES/Notes/Auszubildender\|Auszubildender]].
 
