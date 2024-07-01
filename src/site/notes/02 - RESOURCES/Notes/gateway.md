@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["netzwerk/gateway"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - netzwerk/gateway
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-09-13 15:11
 ---
-
 ## gateway 
 
 Gateway oder Default Gateway ist nicht anders als den [[02 - RESOURCES/Notes/IP Address\|IP Address]]  von den Router.
