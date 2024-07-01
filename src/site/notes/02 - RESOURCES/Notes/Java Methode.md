@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-methode/","tags":["java/method"],"noteIcon":"","updated":"2024-06-25T16:26:05.862+02:00"}
+tags:
+  - java/method
+links: 
+reference: 
+path: Tools
+created: 2023-08-20 20:45
+dg-publish: true
 ---
-
 ## Java Methoden 
 
 >Syntax
