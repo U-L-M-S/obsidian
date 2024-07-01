@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agile-vorgehensmodelle/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-06-16T00:17:33.000+02:00"}
+tags:
+  - projektmanagement
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-15 23:48
 ---
-
 > Wie der Name schon sagt, es ist eine Vorgehensweise  wie man ein [[02 - RESOURCES/Notes/Projekt\|Projekt]] besser strukturiert.
 > Interaktiver, Inkrementeller, kontinuierlich Verbesserung, kurzfristige [[02 - RESOURCES/Notes/Planungsphase\|Planungsphase]], enge Zusammenarbeit zwischen Team und [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]n sind Merkmalen davon.
 > Es ist genau das gegenteil von [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]].
