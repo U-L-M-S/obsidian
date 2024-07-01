@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erzielen-eines-angemessenen-gewinns/","tags":["bwl"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-12 18:47
 ---
-
 ### Erzielen eines Angemessenen Gewinns
 > Genossenschaften -> Visualisieren die Gewinnmaximierung nicht.
 
