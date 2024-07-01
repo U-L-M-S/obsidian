@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/deckung-des-gemeinbedarfs/","tags":["bwl"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-12 18:48
 ---
-
 ### Deckung des Gemeinbedarfs 
 > Öffentliche Betriebe -> Soziale Ziele als Vordegrund. Es hat fast kein Gewinn.
 
