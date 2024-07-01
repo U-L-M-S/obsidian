@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erm-diagramm/","tags":["datenbank","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - datenbank
+  - prüfungsrelevant
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-15 15:42
 ---
-
 > Entity Relationship Diagramm.
 > Zeigt wie zwei [[02 - RESOURCES/Notes/Entität\|Entität]]en sich verhalten gegenseitig verhalten.
 
