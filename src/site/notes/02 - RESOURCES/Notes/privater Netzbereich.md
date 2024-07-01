@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/privater-netzbereich/","tags":["#netzwerk","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - "#netzwerk"
+  - prüfungsrelevant
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 15:09
 ---
-
 > Unternehmensweites [[00 - PROJECTS/Netzwerk\|Netzwerk]] (Privat). Wird verwendet um Daten in eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] zu verwalten/bearbeiten/teilen.
 
 	Es gibt 6 hauptsächliche untere Bereiche der Intranet
@@ -13,7 +19,14 @@
 
 
 
-
+---
+tags: 
+- 
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 16:03
+---
 > Wireless LAN
 
 Drahtloses, in ein [[02 - RESOURCES/Notes/LAN\|LAN]].
@@ -25,7 +38,15 @@ Drahtloses, in ein [[02 - RESOURCES/Notes/LAN\|LAN]].
 
 
 
-
+---
+tags: 
+- 
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 16:05
+---
 > Local Area Network.
 
 Auf ein Gelände beschränktes [[00 - PROJECTS/Netzwerk\|Netzwerk]].
@@ -37,7 +58,15 @@ Auf ein Gelände beschränktes [[00 - PROJECTS/Netzwerk\|Netzwerk]].
 
 
 
-
+---
+tags:
+  - netzwerk
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 16:10
+---
 > Virtuelles [[02 - RESOURCES/Notes/LAN\|LAN]].
 
 Aufteilen in getrennte [[02 - RESOURCES/Notes/LAN\|LAN]]s in gemeinsamer Infrastruktur.
@@ -49,7 +78,15 @@ Aufteilen in getrennte [[02 - RESOURCES/Notes/LAN\|LAN]]s in gemeinsamer Infrast
 
 
 
-
+---
+tags:
+  - netzwerk
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 16:17
+---
 > Virtual Private Network 
 
 Sichere [[02 - RESOURCES/Notes/LAN\|LAN]]-Verbindung durch ein unsicheres [[00 - PROJECTS/Netzwerk\|Netzwerk]].
@@ -61,7 +98,15 @@ Sichere [[02 - RESOURCES/Notes/LAN\|LAN]]-Verbindung durch ein unsicheres [[00 -
 
 
 
-
+---
+tags: 
+- 
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 16:19
+---
 > Storage Area Network 
 
 Verbindungsnetzwerk für Massenspeicher
@@ -76,7 +121,16 @@ Verbindungsnetzwerk für Massenspeicher
 
 
 
-
+---
+tags:
+  - wireless
+  - netzwerk
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 16:29
+---
 > Personal Area Network.
 
 [[00 - PROJECTS/Netzwerk\|Netzwerk]] mit geringe Reichweite.
