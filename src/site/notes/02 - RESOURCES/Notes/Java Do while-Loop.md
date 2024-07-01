@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-do-while-loop/","tags":["java/loop"],"noteIcon":"","updated":"2024-06-21T16:35:25.586+02:00"}
+tags:
+  - java/loop
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-21 16:34
 ---
-
 
 ```java
 public class Main {
