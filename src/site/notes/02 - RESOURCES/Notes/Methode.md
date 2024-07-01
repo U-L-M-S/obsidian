@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/methode/","tags":["OOP"],"noteIcon":"","updated":"2024-06-24T15:43:21.013+02:00"}
+tags:
+  - OOP
+dg-publish: true
+links: 
+reference: 
+aliases:
+  - Methode
+  - methode
+path: Notes
+created: 2024-06-24 12:49
 ---
-
 > Eine Methode ist eine Funktion, die innerhalb einer [[Klasse\|Klasse]] definiert ist und auf Instanzen dieser [[Klasse\|Klasse]] angewendet werden kann. [[02 - RESOURCES/Notes/Methode\|Methode]]n haben Zugriff auf die [[Daten\|Daten]] der Klasse und können diese manipulieren oder verwenden, um bestimmte Operationen auszuführen.
 
 
@@ -9,7 +17,15 @@
 
 
 
-
+---
+tags:
+  - java/method
+links: 
+reference: 
+path: Tools
+created: 2023-08-20 20:45
+dg-publish: true
+---
 ## Java Methoden 
 
 >Syntax
