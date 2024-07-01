@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pan/","tags":["wireless","netzwerk"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - wireless
+  - netzwerk
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 16:29
 ---
-
 > Personal Area Network.
 
 [[00 - PROJECTS/Netzwerk\|Netzwerk]] mit geringe Reichweite.
