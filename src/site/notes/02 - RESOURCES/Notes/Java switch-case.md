@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-switch-case/","tags":["java/switch-case","java"],"noteIcon":"","updated":"2024-06-21T16:38:12.213+02:00"}
+tags:
+  - java/switch-case
+  - java
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-21 16:37
 ---
-
 
 ```java
 public class SwitchCase {
