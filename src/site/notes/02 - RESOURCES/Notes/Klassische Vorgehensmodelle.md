@@ -1,4 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/klassische-vorgehensmodelle/","tags":["projektmanagement","LF01"],"noteIcon":"","updated":"2024-06-15T23:49:50.000+02:00"}
+tags:
+  - projektmanagement
+  - LF01
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-15 23:49
 ---
-
