@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahlen/","tags":["mathe/binaerzahlen"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - mathe/binaerzahlen
+dg-publish: true
+links: 
+reference: "[[00 - PROJECTS/Netzwerk\|Netzwerk]]"
+path: Notes
+created: 2023-09-14 10:11
 ---
-
 ## Binärzahlen 
 Es ist ein Zahlsystem, bei den man nur **Zwei** Zahlen benutzt (1 und 0). 
 
