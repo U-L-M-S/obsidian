@@ -1,13 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dynamisch/","tags":["bedeutung"],"noteIcon":"","updated":"2024-06-24T08:55:44.311+02:00"}
+tags:
+  - bedeutung
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-23 11:21
 ---
-
 > Adjektiv für 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-
+---
+tags:
+  - bedeutung
+links: 
+reference: "[[02 - RESOURCES/Notes/Network Portion und Host\|Network Portion und Host]]"
+path: Notes
+created: 2023-09-13 13:48
+aliases:
+  - dynamisch
+  - Dynamisch
+---
 > DE:Dynamisch
 > änderbar / **Veränderlich** / Anpassungsfähig /flexibel
 
