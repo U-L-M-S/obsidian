@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/eva-prinzip/","tags":["LF02","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-17T09:37:02.937+02:00"}
+tags:
+  - LF02
+  - prüfungsrelevant
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-02-26 10:00
 ---
-
 > **E**ingabe **V**erarbeitung **A**usgabe.
 
 Es ist ein Prinzip, die in jeder Rechner/Algorithmen/ verwendet wird und die Reihenfolge darf sich nicht ändern.
