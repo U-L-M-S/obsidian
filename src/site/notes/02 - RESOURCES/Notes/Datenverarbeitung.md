@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datenverarbeitung/","tags":[null],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags: 
+- 
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-03-11 09:47
 ---
-
 > Es bezeichnet den organisierten Umgang mit Datenmengen mit dem Ziel. Informationen zu gewinnen oder die Datenmenge zu verändern.
 
 
@@ -9,7 +14,14 @@
 
 
 
-
+---
+tags: 
+- 
+links: 
+reference: 
+path: Notes
+created: 2024-03-11 09:50
+---
 > Die sind die Ziele in eine Organisation für die [[02 - RESOURCES/Notes/Datenverarbeitung\|Datenverarbeitung]].
 
 1. Schnelle Verarbeitung großer Datenmenge.
