@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/j-arb-sch-g/","tags":[null],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags: 
+- 
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-02-06 22:36
 ---
-
 >Jugendarbeitsschutzgesetz
