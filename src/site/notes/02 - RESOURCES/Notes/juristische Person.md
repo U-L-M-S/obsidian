@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/juristische-person/","tags":["bwl"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-14 12:10
 ---
-
 ## juristische Person 
 > Eine juristische Person ist eine Entität mit bestimmten rechtlichen Befugnissen und Verantwortlichkeiten, die unabhängig von [[02 - RESOURCES/Notes/Privatpersonen\|Privatpersonen]] existiert. 
 
