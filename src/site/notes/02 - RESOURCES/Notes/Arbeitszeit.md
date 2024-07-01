@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arbeitszeit/","tags":["#jArbSchG"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - "#jArbSchG"
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-02-06 22:47
 ---
-
 # Jugendliche
 >Lautet [[02 - RESOURCES/Notes/jArbSchG\|jArbSchG]]. Jeder der unter 18 ist soll 8 Stunden wöchentlich arbeiten.
 >Mit Ausnahmen von 8,5 Stunden und Überstunden sollen innerhalb von 3 Wochen ausgeglichen werden.
