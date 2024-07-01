@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zugriffsmodifikator/","tags":["java","python","OOP"],"noteIcon":"","updated":"2024-06-24T19:10:56.000+02:00"}
+tags:
+  - java
+  - python
+  - OOP
+dg-publish: true
+links: 
+reference: 
+aliases:
+  - Zugriffmodifikatoren
+  - zugriffmodifikatoren
+  - access modifer
+  - Access modifer
+path: Notes
+created: 2024-06-24 10:57
 ---
-
 > Zugriffsrechten.
 > Es bestimmt wie weit ein [[02 - RESOURCES/Notes/Attribut\|Attribut]] oder [[02 - RESOURCES/Notes/Methode\|Methode]] zugänglich ist.
 
