@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/man/","tags":["netzwerk"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - netzwerk
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-08 15:53
 ---
-
 > Metropolitan Area Network
 ![MAN-20240508155610545.png](/img/user/02%20-%20RESOURCES/Files/IMGs/MAN-20240508155610545.png)
 [[00 - PROJECTS/Netzwerk\|Netzwerk]] wird von lokalen Betreiben betrieben.
