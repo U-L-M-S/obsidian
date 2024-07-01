@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-gui/","tags":["java/tools"],"noteIcon":"","updated":"2024-06-21T16:04:02.521+02:00"}
+tags:
+  - java/tools
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-21 16:01
 ---
-
 
 So kannst du mit java und GUI am besten arbeiten.
 Erstens installiert den Framework WindowBuilder in deiner [[02 - RESOURCES/Notes/Eclipse IDE\|Eclipse IDE]].
