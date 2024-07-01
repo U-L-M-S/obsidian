@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/generationen-der-technisierung/","tags":[null],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags: 
+-
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-05 16:12
 ---
-
 > Wie werden Produkten verkauft und hergestellt in großen Massen.
 
 ## 1. Generation
