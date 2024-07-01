@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnet-mask/","tags":["netzwerk/subnet-mask"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - netzwerk/subnet-mask
+dg-publish: true
+links: 
+reference: "[[00 - PROJECTS/Netzwerk\|Netzwerk]]"
+path: Notes
+created: 2023-09-13 13:26
 ---
-
 ## Subnet Mask 
 > Subnetzmaske 
 Es kann gefunden werden mit den Befehl [[02 - RESOURCES/Notes/ip\|ip]].
