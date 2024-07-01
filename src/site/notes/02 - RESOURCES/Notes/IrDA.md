@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ir-da/","tags":["netzwerk","wireless"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - netzwerk
+  - wireless
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-06 16:32
 ---
-
 > Infrared Data Association
 
 Vorgänger von [[02 - RESOURCES/Notes/Bluetooth\|Bluetooth]]. 
