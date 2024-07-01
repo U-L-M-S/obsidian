@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip-address/","tags":["netzwerk/ip"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - netzwerk/ip
+dg-publish: true
+links: 
+reference: "[[00 - PROJECTS/Netzwerk\|Netzwerk]]"
+path: Notes
+created: 2023-09-13 10:03
 ---
-
 ## IP Address
 >Internet Protocol
 
