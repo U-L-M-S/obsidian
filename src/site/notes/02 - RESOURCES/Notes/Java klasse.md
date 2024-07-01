@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["java/klassen"],"noteIcon":"","updated":"2024-06-24T11:02:37.476+02:00"}
+tags:
+  - java/klassen
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-21 16:38
+aliases:
+  - Java class
+  - java class
 ---
-
 
 ```java
 public class Kreis {
