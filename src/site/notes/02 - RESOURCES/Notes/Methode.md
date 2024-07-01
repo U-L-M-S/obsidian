@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/methode/","tags":["OOP"],"noteIcon":"","updated":"2024-06-24T15:43:21.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/methode/","tags":["OOP"],"noteIcon":"","updated":"2024-06-24T15:43:21.013+02:00"}
 ---
 
 > Eine Methode ist eine Funktion, die innerhalb einer [[Klasse\|Klasse]] definiert ist und auf Instanzen dieser [[Klasse\|Klasse]] angewendet werden kann. [[02 - RESOURCES/Notes/Methode\|Methode]]n haben Zugriff auf die [[Daten\|Daten]] der Klasse und können diese manipulieren oder verwenden, um bestimmte Operationen auszuführen.
