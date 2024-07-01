@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/logo/","tags":["bwl"],"noteIcon":"","updated":"2024-06-24T08:55:44.343+02:00"}
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-22 21:36
 ---
-
 > Grafisches Zeichen, der ein bestimmtes Subjekt repräsentiert.
 
 ![Logo-20240622213919920.png](/img/user/02%20-%20RESOURCES/Files/Logo-20240622213919920.png)
