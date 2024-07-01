@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kleinprojekt/","noteIcon":"","updated":"2024-06-17T09:37:09.698+02:00"}
+tags: []
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-02-22 09:31
 ---
-
 > Es ist ein Unterbegriff von [[02 - RESOURCES/Notes/Projekt\|Projekt]]. Die Kriterien sind, aber minimalistischer als Möglich.
  
 ## Kriterien 
