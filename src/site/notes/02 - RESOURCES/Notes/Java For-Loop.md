@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-for-loop/","tags":["java/loop"],"noteIcon":"","updated":"2024-06-21T16:35:31.715+02:00"}
+tags:
+  - java/loop
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-21 16:32
 ---
-
 ```java
 public class Main {
     public static void main(String[] args) {
