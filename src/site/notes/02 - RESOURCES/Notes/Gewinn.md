@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gewinn/","tags":["bwl"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-10 18:20
 ---
-
 ## Gewinn 
 > [[02 - RESOURCES/Notes/Gewinn\|Gewinn]] = [[02 - RESOURCES/Notes/Umsatz\|Umsatz]] - [[02 - RESOURCES/Notes/Kosten\|Kosten]].
 
