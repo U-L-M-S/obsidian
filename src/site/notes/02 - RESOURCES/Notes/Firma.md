@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/firma/","tags":["LF01","#prüfungsrelevant"],"noteIcon":"","updated":"2024-06-11T08:40:44.999+02:00"}
+tags:
+  - LF01
+  - "#prüfungsrelevant"
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-14 12:38
 ---
-
 ## Firma 
 > Der begriff wird verwendet um zu beschreiben das [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]nsname.
