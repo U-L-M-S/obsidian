@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bezeichnung/","tags":["datenbank","bedeutung"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - datenbank
+  - bedeutung
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-20 13:41
 ---
-
 > Das Ding was zwei [[02 - RESOURCES/Notes/Entität\|Entität]]en verbindet, es wird immer als ein Verb eingegeben.
 
