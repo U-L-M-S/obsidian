@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oeffentlicher-netzbereich/","tags":["netzwerk"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - netzwerk
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-08 15:26
 ---
-
 > Technologien, die verwendet werden für die Datenaustauschen in offene [[00 - PROJECTS/Netzwerk\|Netzwerk]]en.
 
 [[02 - RESOURCES/Notes/WAN\|WAN]]
