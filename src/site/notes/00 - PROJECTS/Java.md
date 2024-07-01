@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/java/","tags":["java","inProgress"],"noteIcon":"","updated":"2024-06-24T19:10:56.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/java/","tags":["java","inProgress"],"noteIcon":"","updated":"2024-07-01T09:51:51.202+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -24,3 +24,4 @@ Nun hat die Funktion drei Begriffen bei sich:
 - void:
 
 Der Befehl `System.out.println("Hello, World!");` macht nicht anders als "Hello, World!" in der Console auszugeben.
+[[02 - RESOURCES/Notes/data type\|data type]]
