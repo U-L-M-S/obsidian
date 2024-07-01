@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/corporate-identity/","tags":["bedeutung","LF08"],"noteIcon":"","updated":"2024-06-24T08:55:44.307+02:00"}
+tags:
+  - bedeutung
+  - LF08
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-22 21:34
+aliases: Erscheinungsbild
 ---
-
 > Umfassungen von Merkmale und Charakteristika eines Unternehmens.
 
 -  [[02 - RESOURCES/Notes/Logo\|Logo]]s
