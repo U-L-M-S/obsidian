@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kuendigung/","tags":["LF01","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-17T09:15:05.179+02:00"}
+tags:
+  - LF01
+  - prüfungsrelevant
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-20 17:27
 ---
-
 ## Kündigung 
 > Es gibt 2 Kündigungsmöglichkeiten. 
 > - Kündigung während die [[02 - RESOURCES/Notes/Probezeit\|Probezeit]] 
