@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ui/","tags":["bedeutung","gui"],"noteIcon":"","updated":"2024-06-24T08:55:44.361+02:00"}
+tags:
+  - bedeutung
+  - gui
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-06-22 13:19
+aliases:
+  - Benutzeroberfläche
+  - user interface
+  - User interface
+  - User Interface
 ---
-
 >**U**ser **I**nterface.
 > [[Benutzeroberfläche\|Benutzeroberfläche]].
 
