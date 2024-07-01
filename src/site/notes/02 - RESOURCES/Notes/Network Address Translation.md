@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/network-address-translation/","tags":["netzwerk/nat","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - netzwerk/nat
+  - prüfungsrelevant
+dg-publish: true
+links: 
+reference: "[[00 - PROJECTS/Netzwerk\|Netzwerk]]"
+path: Notes
+created: 2023-09-13 17:22
 ---
-
 ## Network Address Translation 
 >NAT
 
