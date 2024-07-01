@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betriebliche-ziele/","tags":["bwl"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-12 17:59
 ---
-
 ## Betriebliche Ziele 
 >Was will das Unternehme erreichen. Geld ? Sozial?
 
@@ -13,7 +18,15 @@ Unternehmen können hauptsächlich 3 Ziele haben:
 
 
 
-
+---
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-12 18:46
+---
 ### Erzielen eines Höhen Gewinns 
 
 > Privatwirtschaft -> Unternehme hat nur als Ziel Geld zu haben und nicht anders. 
@@ -41,7 +54,15 @@ Bemerkungen:
 
 
 
-
+---
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-12 18:47
+---
 ### Erzielen eines Angemessenen Gewinns
 > Genossenschaften -> Visualisieren die Gewinnmaximierung nicht.
 
@@ -66,7 +87,15 @@ Bemerkungen:
 
 
 
-
+---
+tags:
+  - bwl
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-12 18:48
+---
 ### Deckung des Gemeinbedarfs 
 > Öffentliche Betriebe -> Soziale Ziele als Vordegrund. Es hat fast kein Gewinn.
 
