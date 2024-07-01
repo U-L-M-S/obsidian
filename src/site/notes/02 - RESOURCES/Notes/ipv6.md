@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ipv6/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - netzwerk/ip/ipv6
+dg-publish: true
+links: 
+reference: "[[02 - RESOURCES/Notes/IP Address\|IP Address]]"
+path: Notes
+created: 2023-09-13 11:07
 ---
-
 ## ipv6 
 128-bit-Binärzahlen, die in Hexadezimal dargestellt werden und mit "**:**" getrennt sind(Gruppen).
 Es ist eine Erweiterung von [[02 - RESOURCES/Notes/ipv4\|ipv4]].
