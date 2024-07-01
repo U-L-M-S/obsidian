@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["datenbank","prüfungsrelevant"],"noteIcon":"","updated":"2024-06-17T09:37:42.854+02:00"}
+tags:
+  - datenbank
+  - prüfungsrelevant
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2024-05-14 08:49
 ---
-
 > Es ist die Beziehung zwischen zwei Tabellen, oder genauer gesagt: wie viel Datensätze mit einer anderen Tabellen verknüpfen sein können.
 
 Es gibt genau 3 Möglichkeiten:
