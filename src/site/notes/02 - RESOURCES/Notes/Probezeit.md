@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/probezeit/","tags":["wk/berufsausbildungsvertrag"],"noteIcon":"","updated":"2024-06-10T02:02:17.000+02:00"}
+tags:
+  - wk/berufsausbildungsvertrag
+dg-publish: true
+links: 
+reference: 
+path: Notes
+created: 2023-10-20 17:08
 ---
-
 ## Probezeit 
 > Es dauert zwischen zwischen 1 bis 4 Monaten.
 
